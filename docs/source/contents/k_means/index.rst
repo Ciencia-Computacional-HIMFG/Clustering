@@ -10,6 +10,6 @@ Introducción al algoritmo de clustering K-means (K-centroides).
    :caption: Contents:
 
    introduction.md
-   tutorial_paso_a_paso.ipynb
-   tutorial_skicit_learn.ipynb
+   k_means_paso_a_paso.ipynb
+   k_means_scikit_learn.ipynb
 
